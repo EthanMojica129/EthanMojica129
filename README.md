@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EthanMojica129
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and Technical Writing
 - 🌱 I’m currently learning Ruby, Python and Rust
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me ethanmojica129@gmail.com
